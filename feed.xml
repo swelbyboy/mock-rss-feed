@@ -12,7 +12,7 @@
 	<atom:link href="https://swelbyboy.github.io/mock-rss-feed/feed.xml" rel="self" type="application/rss+xml" />
 	<link>https://example.com</link>
 	<description>A test RSS feed for software integration testing</description>
-	<lastBuildDate>Thu, 12 Jun 2025 09:45:00 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 12 Jun 2025 10:00:00 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,22 +20,14 @@
 	1	</sy:updateFrequency>
 	<generator>Mock RSS Generator v1.0</generator>
 	<item>
-		<title>Ancient Maritime Discovery: 3,000-Year-Old Shipwreck Reveals Lost Civilization</title>
-		<link>https://www.sams-blog.co.uk/blog/1504508_museums</link>
+		<title>Train</title>
+		<link>https://www.sams-blog.co.uk/blog/1504796_train</link>
 		
-		<dc:creator><![CDATA[Maritime Archaeology Journal]]></dc:creator>
-		<pubDate>Thu, 12 Jun 2025 09:00:00 +0000</pubDate>
-				<category><![CDATA[Archaeology]]></category>
-		<category><![CDATA[History]]></category>
-		<category><![CDATA[archaeology]]></category>
-		<category><![CDATA[shipwreck]]></category>
-		<category><![CDATA[ancient civilization]]></category>
-		<category><![CDATA[maritime history]]></category>
-		<category><![CDATA[Bronze Age]]></category>
-		<guid isPermaLink="true">https://www.sams-blog.co.uk/blog/1504508_museums</guid>
+		<pubDate>Mon, 05 Aug 2024 19:33:00 +0000</pubDate>
+		<guid isPermaLink="true">https://www.sams-blog.co.uk/blog/1504796_train</guid>
 
-					<description><![CDATA[Marine archaeologists have uncovered a remarkable Bronze Age shipwreck off the Mediterranean coast, containing perfectly preserved artifacts that challenge our understanding of ancient trade routes.]]></description>
-										<content:encoded><![CDATA[<p>Marine archaeologists have uncovered a remarkable Bronze Age shipwreck off the Mediterranean coast, containing perfectly preserved artifacts that challenge our understanding of ancient trade routes. The vessel, discovered at a depth of 60 meters, carried precious cargo including gold jewelry, ceramic vessels, and mysterious bronze tablets inscribed with an unknown script. Initial carbon dating confirms the ship dates back 3,000 years, making it one of the oldest intact vessels ever found. The discovery suggests advanced navigation techniques and extensive maritime networks existed far earlier than previously believed, potentially rewriting chapters of ancient history.</p>]]></content:encoded>
+					<description><![CDATA[Travel on a train. This is where your text goes. Click here to start typing. Dolores eos qui ratione voluptatem sequi nesciunt neque porro quisquam est qui dolorem ipsum quia dolor sit amet consectetur adipisci velit sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.]]></description>
+										<content:encoded><![CDATA[<p>Travel on a train. This is where your text goes. Click here to start typing. Dolores eos qui ratione voluptatem sequi nesciunt neque porro quisquam est qui dolorem ipsum quia dolor sit amet consectetur adipisci velit sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem ut enim ad minima veniam quis nostrum exercitationem ullam corporis suscipit laboriosam nisi ut aliquid ex ea commodi consequatur quis autem vel eum iure reprehenderit qui in ea voluptate velit esse.</p>]]></content:encoded>
 					
 		
 		
