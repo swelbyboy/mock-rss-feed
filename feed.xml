@@ -1,25 +1,42 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
 <channel>
-<title>Mock News Feed</title>
-<description>A test RSS feed for software integration testing</description>
-<link>https://example.com</link>
-<atom:link href="https://swelbyboy.github.io/mock-rss-feed/feed.xml" rel="self" type="application/rss+xml"/>
-<copyright>© 2025 Mock Feed</copyright>
-<language>en-US</language>
-<lastBuildDate>Thu, 12 Jun 2025 09:45:00 +0000</lastBuildDate>
-<item>
-<title>blah blah blah blah</title>
-<link>https://www.sams-blog.co.uk/blog/1504508_museums</link>
-<guid isPermaLink="true">https://www.sams-blog.co.uk/blog/1504508_museums</guid>
-<pubDate>Thu, 12 Jun 2025 09:00:00 +0000</pubDate>
-<description><![CDATA[Doo daah daahh doo deee dum.]]></description>
-<category>Archaeology</category>
-<category>History</category>
-<media:keywords>archaeology, shipwreck, ancient civilization, maritime history, Bronze Age</media:keywords>
-<dc:creator>Maritime Archaeology Journal</dc:creator>
-<dc:publisher>Sams Blog</dc:publisher>
-<dc:subject>Archaeological Discovery</dc:subject>
-<media:thumbnail url="https://sitchu.com.au/wp-content/uploads/2025/02/mister-grotto-silver-trevally-mussels-escabeche-yellowfin-tuna-oysters-selection-smoked-cod-seared-bonito-octopus-in-harissa.jpg" width="800" height="600"/>
-</item>
-</channel>
+	<title>Sitchu | The Best Things To Do In Sydney</title>
+	<atom:link href="https://sitchu.com.au/sydney/feed" rel="self" type="application/rss+xml" />
+	<link>https://sitchu.com.au/sydney</link>
+	<description>Be you. Live Local.</description>
+	<lastBuildDate>Thu, 12 Jun 2025 07:04:32 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.1</generator>
+	<item>
+		<title>The Mysterious Case of Dancing Penguins and Their Secret Tango Academy</title>
+		<link>https://sitchu.com.au/sydney/health-wellness/pregnancy-massage-sydney</link>
+		
+		<dc:creator><![CDATA[Bella Brennan]]></dc:creator>
+		<pubDate>Thu, 12 Jun 2025 09:00:00 +0000</pubDate>
+				<category><![CDATA[Health & Wellness]]></category>
+		<category><![CDATA[Lifestyle]]></category>
+		<category><![CDATA[health and wellness]]></category>
+		<category><![CDATA[massage]]></category>
+		<category><![CDATA[motherhood]]></category>
+		<guid isPermaLink="false">https://sitchu.com.au/pregnancy-massage-sydney</guid>
+
+					<description><![CDATA[<p>Scientists have discovered that penguins in Antarctica have been secretly learning the tango and forming underground dance academies. These sophisticated birds apparently gather at midnight to practice their elaborate choreography under the southern lights.</p>]]></description>
+										<content:encoded><![CDATA[<p>Scientists have discovered that penguins in Antarctica have been secretly learning the tango and forming underground dance academies. These sophisticated birds apparently gather at midnight to practice their elaborate choreography under the southern lights.</p>]]></content:encoded>
+					
+		
+		
+		<enclosure url="https://sitchu.com.au/wp-content/uploads/2024/12/pregnant-woman-pexels-cottonbro-studio-scaled.jpg" type="image/jpeg" length="125050"></enclosure>	</item>
+	</channel>
 </rss> 
