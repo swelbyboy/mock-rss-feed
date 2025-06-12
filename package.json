@@ -1,0 +1,13 @@
+{
+  "name": "mock-rss-feed",
+  "version": "1.0.0",
+  "description": "A mock RSS feed for testing purposes",
+  "scripts": {
+    "dev": "vercel dev",
+    "build": "echo 'Static files ready'",
+    "start": "vercel --prod"
+  },
+  "keywords": ["rss", "feed", "mock", "testing"],
+  "author": "",
+  "license": "MIT"
+} 

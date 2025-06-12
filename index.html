@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mock RSS Feed</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            line-height: 1.6;
+        }
+        .container {
+            border: 1px solid #ddd;
+            padding: 20px;
+            border-radius: 5px;
+        }
+        h1 {
+            color: #333;
+        }
+        a {
+            color: #0066cc;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+        .feed-list {
+            margin-top: 20px;
+        }
+        .feed-list li {
+            margin-bottom: 10px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Mock RSS Feed</h1>
+        <p>This is a mock RSS feed for testing purposes. No login required.</p>
+        
+        <div class="feed-list">
+            <h2>Available Feed:</h2>
+            <ul>
+                <li><a href="feed.xml">AI News Feed</a></li>
+            </ul>
+        </div>
+        
+        <p>To add this feed to your RSS reader, use the full URL:</p>
+        <p><code id="fullUrl"></code></p>
+    </div>
+
+    <script>
+        // Get the full URL dynamically
+        const baseUrl = window.location.origin;
+        document.getElementById('fullUrl').textContent = baseUrl + '/feed.xml';
+    </script>
+</body>
+</html> 

@@ -1,0 +1,41 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+<channel>
+<title>Feed: Artificial Intelligence Latest</title>
+<description>Channel Description</description>
+<link>https://www.wired.com</link>
+<atom:link href="https://www.wired.com/feed/tag/ai/latest/rss" rel="self" type="application/atom+xml"/>
+<copyright>© Condé Nast 2025</copyright>
+<language>en-US</language>
+<lastBuildDate>Thu, 12 Jun 2025 14:49:05 +0000</lastBuildDate>
+<item>
+<title>Inexpensive AI Agents Threaten Entry-Level Coding Jobs</title>
+<link>https://www.wired.com/story/pricing-ai-agents-increasing-costs/</link>
+<guid isPermaLink="false">68365d9b4de0912e2a3b521e</guid>
+<pubDate>Thu, 12 Jun 2025 11:00:00 +0000</pubDate>
+<media:content/>
+<description>AI tools cost a fraction of human labor—and may undermine the jobs needed to build careers.</description>
+<category>Business</category>
+<category>Business / Artificial Intelligence</category>
+<media:keywords>artificial intelligence, Google Gemini, OpenAI, software, Labor</media:keywords>
+<dc:creator>Paresh Dave</dc:creator>
+<dc:publisher>Condé Nast</dc:publisher>
+<dc:subject>Price Fix</dc:subject>
+<media:thumbnail url="https://media.wired.com/photos/6839d9d89a13744cc0e1c44b/master/pass/business_ai_agents_cheap.jpg" width="2400" height="1350"/>
+</item>
+<item>
+<title>A Political Battle Is Brewing Over Data Centers</title>
+<link>https://www.wired.com/story/a-political-battle-is-brewing-over-data-centers/</link>
+<guid isPermaLink="false">683f5b89853f149149e1ddb8</guid>
+<pubDate>Tue, 10 Jun 2025 18:56:09 +0000</pubDate>
+<media:content/>
+<description>An AI-related provision in the “Big Beautiful Bill” could restrict state-level legislation of energy-hungry data centers—and is raising bipartisan objections across the US.</description>
+<category>Science</category>
+<category>Science / Environment</category>
+<media:keywords>science, artificial intelligence, Policy, Donald Trump, Energy</media:keywords>
+<dc:creator>Molly Taft</dc:creator>
+<dc:publisher>Condé Nast</dc:publisher>
+<dc:subject>Artificial Intelligence</dc:subject>
+<media:thumbnail url="https://media.wired.com/photos/684036ef4c253f09088b983a/master/pass/GettyImages-2213382270.jpg" width="2245" height="1068"/>
+</item>
+</channel>
+</rss>
